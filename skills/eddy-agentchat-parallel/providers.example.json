@@ -1,0 +1,22 @@
+{
+  "openrouter": {
+    "baseURL": "https://openrouter.ai/api/v1",
+    "apiKey": "sk-or-v1-在这里填入你的key,或删掉本行改用下面的环境变量方式",
+    "apiKeyEnv": "OPENROUTER_API_KEY"
+  },
+  "bigmodel": {
+    "baseURL": "https://open.bigmodel.cn/api/paas/v4",
+    "apiKey": "",
+    "apiKeyEnv": "BIGMODEL_API_KEY"
+  },
+  "siliconflow": {
+    "baseURL": "https://api.siliconflow.cn/v1",
+    "apiKey": "",
+    "apiKeyEnv": "SILICONFLOW_API_KEY"
+  },
+  "modelscope": {
+    "baseURL": "https://api-inference.modelscope.cn/v1",
+    "apiKey": "",
+    "apiKeyEnv": "MODELSCOPE_API_KEY"
+  }
+}
